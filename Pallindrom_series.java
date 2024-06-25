@@ -25,6 +25,7 @@ public class Pallindrom_series {
         else{
             System.out.println("the given number is not a pallindrom number");
         }
+        sc.close();
 
 
     }

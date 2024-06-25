@@ -18,5 +18,14 @@ public class Reverse_of_array {
                 break;
             }
         }
+
+        StringBuffer sb = new StringBuffer();
+        System.out.println(sb.append("abcdegfhijklmonp"));
+        System.out.println(sb.capacity());
+        System.out.println(sb.append("abcdegfhijklmonp"));
+        System.out.println(sb.capacity());
+        System.out.println(sb.append("abcdegfhijklmonp"));
+        System.out.println(sb.capacity());
+        
     }
 }
