@@ -13,7 +13,9 @@ public class Example_IO_exception  {
             PrintWriter pr = new PrintWriter("abcd.txt");
         }
         catch (FileNotFoundException e){
-            e.printStackTrace();
+            e.printStackTrace();  //gives the full describtion
+            e.getMessage();   //gives the eception cause only
+            e.toString();     //gives the name of exception and its cause
     }
 }
 }
