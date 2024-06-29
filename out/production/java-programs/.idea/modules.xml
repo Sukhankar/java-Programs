@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Synchornization/Synchornization.iml" filepath="$PROJECT_DIR$/Synchornization/Synchornization.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-programs.iml" filepath="$PROJECT_DIR$/java-programs.iml" />
     </modules>
   </component>
